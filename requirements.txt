@@ -1,6 +1,6 @@
 streamlit>=1.36
 # Pin httpx to avoid regressions with transitive deps on some platforms
-httpx<0.28
+httpx>0.28
 googletrans==4.0.0rc1
 gTTS>=2.5
 httpcore<0.19
