@@ -1,4 +1,4 @@
-# MakerFest Station 🎉
+# MakerFest Station 
 
 This repository contains a **Streamlit application** with multiple mini-apps, designed for an interactive MakerFest event.
 
