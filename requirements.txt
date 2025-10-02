@@ -3,3 +3,5 @@ streamlit>=1.36
 httpx<0.28
 googletrans==4.0.0rc1
 gTTS>=2.5
+httpcore<0.19
+anyio<4.4
