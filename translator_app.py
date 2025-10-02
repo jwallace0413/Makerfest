@@ -1,5 +1,5 @@
 import streamlit as st
-
+import cgi
 def run():
     st.subheader("🌐 Translator with Text-to-Speech")
 
