@@ -1,8 +1,7 @@
-streamlit>=1.36
-streamlit-webrtc>=0.47.1
-opencv-python-headless>=4.10.0.84
-tensorflow>=2.15,<3.0
-numpy>=1.26
-av==10.0.0
-altair
+streamlit==1.50.0
+tensorflow==2.20.0
+pillow
+numpy
 pandas
+altair
+
