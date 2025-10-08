@@ -1,0 +1,22 @@
+0 Artist
+1 Astronaut
+2 Athlete
+3 Chef
+4 Construction Worke...
+5 Actor
+6 Courier
+7 Dancer
+8 Doctor
+9 Farmer
+10 Firefighter
+11 Hairdresser
+12 Homeless Person
+13 IT Specialist
+14 Judge
+15 Musician
+16 Photographer
+17 Pilot
+18 Police
+19 Sailor
+20 Teacher
+21 Welder
